@@ -1,0 +1,12 @@
+﻿using System;
+
+namespace JenkinsOrnek
+{
+    public class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
